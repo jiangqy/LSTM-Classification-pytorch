@@ -33,7 +33,7 @@ def PlotFigure(result, use_save=False):
 
     plt.show()
     if use_save:
-        figname = 'figure/LSTM_classifier_' + datetime.now().strftime("%d-%h-%m-%s") + '.pdf'
+        figname = 'figure/LSTM_classifier_' + datetime.now().strftime("%d-%h-%m-%s") + '.png'
         fig.savefig(figname)
         print('Figure %s is saved.' % figname)
 if __name__=='__main__':

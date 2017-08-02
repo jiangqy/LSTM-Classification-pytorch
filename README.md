@@ -34,7 +34,7 @@ running example:
 python main.py
 ```
 output:
-![](./figure/LSTM_classifier_example.pdf)
+![](./figure/LSTM_classifier_example.png)
 ### 4. Dataset:
 We use the following dataset for our example:
 R8 Dataset.[link](http://www.cs.umb.edu/~smimarog/textmining/datasets/).
